@@ -17,6 +17,6 @@ Narrator per attivarlo cliccare sull'icona del servizio associato nella scheramt
 Utilman come sopra
 Sethc per attivarlo nella schermata di login premere 5 volte shift
 
-Poi ci sono le opzioni in tempo reale, attive sa subito che sfruttano psexec ed altre tecniche,
+Poi ci sono le opzioni in tempo reale, attive sa subito che sfruttano psexec, runassystem e powerpormpt ed altre tecniche,
 
 Infine lo script determina la versione di sistema operativo ed abilita o disabilita alcune opzioni in base al sistema rilevato

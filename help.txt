@@ -1,0 +1,28 @@
+KNX GetSYS ~ 2015
+
+Prerequisiti:
+   - Il programma necessità dei diritti di amministratore per funzionare
+ 
+Funzioni:
+   - Reg Debugger. Una volta attivo disconnettersi e premere 5 volte SHIFT 
+     oppure SHIFT + ALT + STAMP per attivare i tasti permanenti
+
+   - SetHC. Una volta attivo disconnettersi e premere 5 volte SHIFT 
+     oppure SHIFT + ALT + STAMP per attivare i tasti permanenti
+
+   - Utilman. Una volta attivo disconnettersi e cliccare sull'icona 
+     di aiuto nella pagina di login oppure premere Win + U
+
+   - Narrator. Una volta attivo disconnettersi e cliccare sull'icona 
+     di aiuto nella pagina di login poi attivare assistente vocale
+  
+   - PsEXEC. Eseguirlo per avere subito una shell system senza disconnetteri
+
+   - RunAsSystem. Eseguirlo per aver subito una shell system senza disconnettersi
+
+   - PowerPrompt. Funziona SOLO su Windows XP. Eseguirlo per aver subito una shell system senza disconnettersi
+
+Commands:   
+   - Aiuto. Questo file di testo
+
+   - Esci. Esci dal programma
