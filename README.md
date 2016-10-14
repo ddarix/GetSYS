@@ -21,4 +21,6 @@ Poi ci sono le opzioni in tempo reale, attive sa subito che sfruttano psexec, ru
 
 Infine lo script determina la versione di sistema operativo ed abilita o disabilita alcune opzioni in base al sistema rilevato
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+Video Demo:
+
+[![IMAGE ALT TEXT HERE](http://knx2010.altervista.org/getsys.PNG)](https://www.youtube.com/watch?v=MPr7Yfst8YA)
