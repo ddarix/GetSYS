@@ -20,3 +20,5 @@ Sethc per attivarlo nella schermata di login premere 5 volte shift
 Poi ci sono le opzioni in tempo reale, attive sa subito che sfruttano psexec, runassystem e powerpormpt ed altre tecniche,
 
 Infine lo script determina la versione di sistema operativo ed abilita o disabilita alcune opzioni in base al sistema rilevato
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
